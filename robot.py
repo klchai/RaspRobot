@@ -158,8 +158,8 @@ def main():
             elif command == "right":
                 print("Right")
                 move(init_speed, 'no', 'right', '0.8')
-            elif command == "speed":
-                new_speed = input("Change speed:")
+            elif command.startswith("speed") and len(command.split())==2:
+                new_speed = int(command.split()[1])
                 init_speed = int(new_speed)
                 print(f"Speed now is {init_speed}")
             else:

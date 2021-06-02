@@ -35,7 +35,7 @@ def handler(client):
                 msg = "ok"
                 print("pc connected to robot ",robot_name)
 
-        elif msg not in COMMANDS:
+        elif msg.split()[0] not in COMMANDS:
             msg = f"Incorrect msg: {msg}"
         else:
             print("send to robot")
