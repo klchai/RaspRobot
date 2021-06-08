@@ -1,5 +1,13 @@
 # RaspRobot
 The repository for the programmation réseaux of Master 2 ISD. Groupe: Kelun CHAI, Djaber Solimani and Nogaye Gning
+
+## Organization
+| Nom | Task  |
+|  ----  | ----  |
+| Nogaye Gning  | Construction du robot + Mise en place du Raspberry Pi |
+| Djaber Solimani  | Communication réseau en TCP + Code Serveur/Client + Mise en place du Raspberry Pi|
+| Kelun Chai | Code robot + Mise en place du Raspberry Pi |
+
 ## Server
 *Usage*: `python3 server.py`
 Le serveur démarrera automatiquement sur le port 9000 de `192.168.1.1`. 
