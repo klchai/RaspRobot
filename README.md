@@ -2,10 +2,10 @@
 The repository for the programmation réseaux of Master 2 ISD. Groupe: Kelun CHAI, Djaber Solimani and Nogaye Gning
 
 ## Organization
-| Nom | Task  |
-|  ----  | ----  |
-| Nogaye Gning  | Construction du robot + Mise en place du Raspberry Pi |
-| Djaber Solimani  | Communication réseau en TCP + Code Serveur/Client + Mise en place du Raspberry Pi|
+| Nom | Task |
+| ---- | ---- |
+| Djaber Solimani | Communication réseau en TCP + Code Serveur/Client + Mise en place du Raspberry Pi|
+| Nogaye Gning | Construction du robot + Mise en place du Raspberry Pi |
 | Kelun Chai | Code robot + Mise en place du Raspberry Pi |
 
 ## Server
