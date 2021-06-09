@@ -5,6 +5,8 @@ Groupe:
 * Djaber Solimani
 * Nogaye Gning
 
+For more details, read the report `Rapport_Reseaux.pdf`.
+
 ## Organization
 | Nom | Task |
 | ---- | ---- |
