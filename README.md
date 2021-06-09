@@ -14,9 +14,9 @@ Groupe:
 
 ## Server
 *Usage*: `python3 server.py`
-Lance le serveur sur le port 9000. 
 
-Il peut traiter les messages envoyés par le client et le robot. Si le message reçu n'est pas reconnu, il renvoie un message d'erreur.
+Lance le serveur sur le port 9000. Il peut traiter les messages envoyés par le client et le robot. Si le 
+message reçu n'est pas reconnu, il renvoie un message d'erreur.
 ## Client
 *Usage*: `python3 client.py router_ip`
 
